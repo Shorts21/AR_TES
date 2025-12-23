@@ -1,0 +1,7 @@
+{
+  "name": "AeroShot AR",
+  "description": "A high-performance AR shooting game using gesture-controlled hand tracking and Three.js.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
